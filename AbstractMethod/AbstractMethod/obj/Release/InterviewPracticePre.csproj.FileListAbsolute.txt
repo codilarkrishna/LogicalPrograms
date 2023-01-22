@@ -1,0 +1,6 @@
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Release\AbstractMethod.exe.config
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Release\AbstractMethod.exe
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Release\AbstractMethod.pdb
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\obj\Release\InterviewPracticePre.csproj.CoreCompileInputs.cache
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\obj\Release\AbstractMethod.exe
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\obj\Release\AbstractMethod.pdb

@@ -1,0 +1,12 @@
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Debug\AbstractMethod.exe.config
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Debug\AbstractMethod.exe
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Debug\AbstractMethod.pdb
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\obj\Debug\InterviewPracticePre.csprojAssemblyReference.cache
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\obj\Debug\InterviewPracticePre.csproj.CoreCompileInputs.cache
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\obj\Debug\AbstractMethod.exe
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\obj\Debug\AbstractMethod.pdb
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Debug\EntityFramework.dll
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Debug\EntityFramework.xml
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krishna\source\repos\AbstractMethod\AbstractMethod\obj\Debug\InterviewPracticePre.csproj.CopyComplete
